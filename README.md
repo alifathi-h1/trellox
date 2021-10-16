@@ -4,7 +4,7 @@
 </p>
 
 
-Trellox Tool is written in Python3 and designed to list and pull Trello boards. It can be used by Penetration testers/bug bounty hunters to demonstrate the validity and impact of leaked Trello Keys.  
+Trellox Tool is written in Python3 and designed to list and pull Trello boards. It can be used by penetration testers/bug bounty hunters to demonstrate the validity and impact of leaked Trello Keys.  
 
 
 ## Requirements <br>
