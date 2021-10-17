@@ -19,7 +19,7 @@ Trellox Tool is written in Python3 and designed to list and pull Trello boards. 
 
    ```pip3 install -r requirements.txt```
 
-* Configuring GitHub API KEY & TOKEN as env variables
+* Configuring Trello API KEY & TOKEN as env variables
 
    ```export  Trello_API_KEY=""```
    
